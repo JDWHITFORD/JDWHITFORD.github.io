@@ -1,0 +1,16 @@
+#infoPanel {
+	position: absolute;
+    font-size: 1.5vmax;
+	top: 5vh;
+    left: 5vh;
+	width: 32vw;
+	padding: 1vw;
+	box-sizing: border-box;
+	text-align: left;
+	z-index: 1;
+    color:antiquewhite;
+}
+
+#instructionalTextStep2 {
+    display:none;
+}
