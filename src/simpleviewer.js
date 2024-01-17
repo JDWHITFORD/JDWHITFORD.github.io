@@ -10,9 +10,9 @@ import * as THREE from "three";
 
 // Basic functionality pulled in: orbit (camera) transform (sphere) and an STL loader for STL files.
 // Given more time, the loader could be made more dynamic to handld OBJ, Step, etc. based on file extension (and validated via content)
-import { OrbitControls } from "three/addons/controls/OrbitControls.js";
-import { TransformControls } from "three/addons/controls/TransformControls.js";
-import { STLLoader } from "three/addons/loaders/STLLoader.js";
+import { OrbitControls } from "src/jsm/controls/OrbitControls.js";
+import { TransformControls } from "src/jsm/controls/TransformControls.js";
+import { STLLoader } from "src/jsm/loaders/STLLoader.js";
 
 let cameraOrtho, currentCamera, cameraFrustumSize;
 let scene, renderer, stlLoader, modelControl, camOrbitControl;
