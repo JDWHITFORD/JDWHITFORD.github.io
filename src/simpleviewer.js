@@ -21,7 +21,7 @@ const snapIncrement = 0.05;
 
 // You'll need a live server or to host these somewhere. CORS doesn't like file:// anymore.
 // Made the assumption that we might want to expose the file(s) to be selected in the future.
-let hostingURL = "http://localhost:5500/";
+let hostingURL = "";
 let sphereFileName = "media/Sphere_40mm.stl";
 let scapulaFileName = "media/Scapula (2).stl";
 
