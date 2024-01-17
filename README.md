@@ -1,6 +1,8 @@
-# Project Title
+# Joshua Whitford's Arthrex Technical Assignment
 
-Joshua Whitford's Arthrex Technical Assignment
+JDW January 16 2024 - Arthrex simple assignment for viewing, placing, and manipulating STLs.
+Summary follows. Created here on github after request from recruiting. Will be flagged as private and/or deleted after review.
+Commits made to main for expedience - normal commit procedures are to create a bug in a tracker, new branch per bug.
 
 ## Table of Contents
 
